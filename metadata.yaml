@@ -1,0 +1,28 @@
+_repo: Az-idogep_66999
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Mikes, Lajos
+    gutenberg_agent_id: '54072'
+    url: http://www.gutenberg.org/2009/agents/54072
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: https://en.wikipedia.org/wiki/H._G._Wells
+description: ''
+gutenberg_issued: '2021-12-22'
+identifiers:
+  gutenberg: '66999'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Az időgép
+url: http://www.gutenberg.org/ebooks/66999
